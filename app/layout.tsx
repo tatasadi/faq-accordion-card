@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${kumbhSans.className} from-primary-soft-violet to-primary-soft-blue flex min-h-screen flex-col items-center justify-center bg-gradient-to-b`}
+        className={`${kumbhSans.className} from-primary-soft-violet to-primary-soft-blue text-primary-very-dark-desat-blue flex min-h-screen flex-col items-center justify-center bg-gradient-to-b`}
       >
         {children}
       </body>
