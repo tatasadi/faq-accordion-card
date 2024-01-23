@@ -19,11 +19,13 @@ export default function Home() {
           <Image src={patternMobile} alt="background pattern" />
         </div>
         <div className="relative hidden w-[30rem] md:block">
-          <Image
-            src={patternDesktop}
-            alt="background pattern"
-            className="relative -left-[8rem]"
-          />
+          <div className="relative overflow-hidden">
+            <Image
+              src={patternDesktop}
+              alt="background pattern"
+              className="relative -left-[8rem]"
+            />
+          </div>
           <Image
             src={illustrationBox}
             alt="illustration box"
