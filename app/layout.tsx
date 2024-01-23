@@ -19,6 +19,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link
+          rel="icon"
+          href="/images/favicon-32x32.png"
+          type="image/png"
+          sizes="32x32"
+        />
+      </head>
       <body
         className={`${kumbhSans.className} from-primary-soft-violet to-primary-soft-blue text-primary-very-dark-desat-blue flex min-h-screen flex-col items-center justify-center bg-gradient-to-b`}
       >
