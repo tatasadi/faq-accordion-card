@@ -46,6 +46,10 @@ Users should be able to:
 
 ![](https://img.shields.io/badge/eslint-fff?style=for-the-badge&logo=eslint&logoColor=fff&color=4930bd) ![](https://img.shields.io/badge/prettier-fff?style=for-the-badge&logo=prettier&logoColor=000&color=f3ae42)
 
+### Implementation time
+
+This challenge was completed over a span of 2 hours.
+
 ## Author
 
 - Website - [Ehsan Tatasadi](https://ehsan.tatasadi.com)
